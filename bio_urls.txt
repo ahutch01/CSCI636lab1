@@ -1,0 +1,15 @@
+/faculty/directory/abdullah-almaatouq
+/faculty/directory/sinan-aral
+/faculty/directory/john-j-horton
+/faculty/directory/harvey-michaels
+/faculty/directory/thomas-w-malone
+/faculty/directory/stuart-madnick
+/faculty/directory/wanda-orlikowski
+/faculty/directory/sinead-oflanagan
+/faculty/directory/sandy-pentland
+/faculty/directory/keri-pearlson
+/faculty/directory/manish-raghavan
+/faculty/directory/michael-d-siegel
+/faculty/directory/peter-weill
+/faculty/directory/irving-wladawsky-berger
+/faculty/directory/joanne-yates
